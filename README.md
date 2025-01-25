@@ -1,7 +1,9 @@
-# Breast-Cancer-Classifier
+# Part 1: Introduction
 A model that classifies breast cancer datasets as either Malignant or Benign with 90%+ accuracy
 
 Most experienced clinicians and doctors can diagnose cancerous masses using fine needle aspirate (FNA) breast biopsy reports with high accuracy. Published statistical analyses of physician diagnoses have demonstrated benchmarks within 75–95% accuracy. My goal with this project was to train and validate a machine learning model to accurately predict whether a detected mass in a real-world breast biopsy report is malignant or benign. Furthermore, the machine learning model should employ probabilistic reasoning to explain why it believes the mass is malignant or benign.
+
+# Part 2: My Results
 
 The results are output as a text file. The following report were the actual result of the sklearn breast cancer dataset in a Random Forest Classifier:
 =================================================================================================================
@@ -52,6 +54,8 @@ Error Rate: 4.09%
 BEST CLASSIFIER:
 Random Forest (Accuracy: 97.08%)
 
+==================================================================================
+
 
 
 
@@ -60,6 +64,7 @@ Random Forest (Accuracy: 97.08%)
 
 ==================================================================================
 
+# Part 3: Future Improvements
 
 ### My To Do List:
 
