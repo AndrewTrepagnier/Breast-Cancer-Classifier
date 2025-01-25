@@ -6,7 +6,7 @@ Most experienced clinicians and doctors can diagnose cancerous masses using fine
 # Part 2: My Results
 
 The results are output as a text file. The following report were the actual result of the sklearn breast cancer dataset in a Random Forest Classifier:
-=================================================================================================================
+
 
 BREAST CANCER DATASET - SIMPLE REPORT
 Generated on: 2025-01-25 11:28:03
